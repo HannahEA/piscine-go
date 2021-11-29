@@ -1,0 +1,1 @@
+ls -t | find -not -name "*.sh" 
